@@ -1,0 +1,13 @@
+Package: stastools
+Type: Package
+Title: What the package does (short line)
+Version: 2.1
+Date: 2024-12-30
+Author: Who wrote it
+Maintainer: KYLE <lihf@sysucc.org.cn>
+Description: Kyle stastistic tools
+License: GPL-2
+LazyData: true
+NeedsCompilation: no
+Packaged: 2024-12-30 18:23:43 UTC; KYLE
+Depends: R (>= 3.5.0)
